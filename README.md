@@ -44,6 +44,7 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 2-5 : 
 
 ![image](image/Rx2.png)
+We can transform a random process into a wide-sense stationary (WSS) process by taking the mean over time.
 
 3-1 : Definition of continuous signal and sampling and construction of discrete signals 
 
@@ -67,3 +68,7 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 3-6: Decoding of the digital signal at the receiver
 
 ![image](image/decode.png)
+
+3.7: Conversion of quantized signal back to analog
+
+![image](image/q5.png)
