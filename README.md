@@ -8,5 +8,5 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 
 3. Quantization : In the third part, we will focus on pulse modulation and work on building a digital transmitter and receiver that can handle noise and decoding.
 
-1. Plotting the probability density function (PDF) of the Rayleigh distribution
-![Rayleigh Plot](C:\Users\asus\OneDrive\Documents\term 5\Principles of communication  systems\CA3\rayleighPDF.png)
+1.Plotting the probability density function (PDF) of the Rayleigh distribution
+![Rayleigh Plot](./rayleighPDF.png)
