@@ -52,4 +52,18 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 ![image](image/c_d_signals.png)
  
 3-3 : Quantization Level Implementation
+![image](image/q1.png)
+![image](image/q2.png)
  
+ 3-4 : Digital conversion of quantized signals
+
+![image](image/pulse.png)
+![image](image/pulse_code.png)
+
+3-5: Reception of digital signal at the receiver
+
+![image](image/noise.png)
+
+3-6: Decoding of the digital signal at the receiver
+
+![image](image/decode.png)
