@@ -39,10 +39,17 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 2-4 : Plotting mean and autocorrelation of random process X base on theoretical calculations
 
 ![image](image/meanX1.png)
-![image](image/RX3.png)
+![image](image/Rx3.png)
 
 2-5 : 
 
-![image](image/RX2.png)
+![image](image/Rx2.png)
 
-3-1 : Definition of continuous signal and sampling, and construction of discrete signals 
+3-1 : Definition of continuous signal and sampling and construction of discrete signals 
+
+![image](image/continuous_signal.png)
+![image](image/discrete_signals.png)
+![image](image/c_d_signals.png)
+ 
+3-3 : Quantization Level Implementation
+ 
