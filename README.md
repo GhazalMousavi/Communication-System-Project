@@ -27,3 +27,22 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 ![image](image/RayleighN2.png)
 
  When we increase the value of `N` from 1000 to 100000, the histogram tends to be more accurate because we have a larger number of samples to represent the distribution of the data. With a larger sample size, the histogram bins can capture the underlying distribution more precisely, resulting in a more accurate representation of the data.
+
+2-2: Plotting mean of random process X
+
+ ![image](image/meanX.png)
+
+2-3: Plotting autocorrelation of random process X
+
+ ![image](image/Rx1.png)
+
+2-4 : Plotting mean and autocorrelation of random process X base on theoretical calculations
+
+![image](image/meanX1.png)
+![image](image/RX3.png)
+
+2-5 : 
+
+![image](image/RX2.png)
+
+3-1 : Definition of continuous signal and sampling, and construction of discrete signals 
