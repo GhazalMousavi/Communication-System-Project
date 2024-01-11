@@ -2,12 +2,20 @@
 Rayleigh distribution, Random Process and Quantization in Communication Systems
  In this project, we have three parts. 
 
-**1. Rayleigh Distribution ** : In the first part, we will review the Rayleigh distribution.
+1. Rayleigh Distribution : In the first part, we will review the Rayleigh distribution.
 
 2. Random Processes : In the second part, we will analyze a random process to see if it is a Stationary Stochastic Process (WSS). If it's not, we will explore ways to make it a WSS process.
 
 3. Quantization : In the third part, we will focus on pulse modulation and work on building a digital transmitter and receiver that can handle noise and decoding.
 
-1.Plotting the probability density function (PDF) of the Rayleigh distribution
-![Rayleigh plot](./Rayleigh_plot.png)
+1-1: Plotting the probability density function (PDF) of the Rayleigh distribution
+ 
+![image](image./Rayleigh_plot.png){:width="400px" height="300px"}
 
+1-2: Plotting the PDF of two random variables with a Normal distribution having a mean of zero and a variance of one
+
+![image](image./normal_N1.png){:width="400px" height="300px"}
+
+1-3: Generating and plotting Rayleigh random variable using two normal random variables
+
+![image](image./RayleighN1.png){:width="400px" height="300px"}
