@@ -10,12 +10,20 @@ Rayleigh distribution, Random Process and Quantization in Communication Systems
 
 1-1: Plotting the probability density function (PDF) of the Rayleigh distribution
  
-![image](image/Rayleigh_plot.png){:width="400px" height="300px"}
+![image](image/Rayleigh_plot.png)
 
 1-2: Plotting the PDF of two random variables with a Normal distribution having a mean of zero and a variance of one
 
-![image](image/normal_N1.png){:width="400px" height="300px"}
+![image](image/normal_N1.png)
 
 1-3: Generating and plotting Rayleigh random variable using two normal random variables
 
-![image](image/RayleighN1.png){:width="400px" height="300px"}
+![image](image/RayleighN1.png)
+
+ 1-4: The Impact of Increasing N
+
+![image](image/normal_N2.png)
+
+![image](image/RayleighN2.png)
+
+ When we increase the value of `N` from 1000 to 100000, the histogram tends to be more accurate because we have a larger number of samples to represent the distribution of the data. With a larger sample size, the histogram bins can capture the underlying distribution more precisely, resulting in a more accurate representation of the data.
